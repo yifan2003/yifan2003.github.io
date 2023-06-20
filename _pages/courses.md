@@ -13,9 +13,7 @@ I have taken many courses and got 137 credits.
 
 Overall GPA(2.5 years) 4.02/4.30 or 92.5/100.0
 
-Rank in 1/48 in School of the Gifted Young who majored in Mathematics
-
-Rank 1% in the major of Mathematics all of the school.
+Rank in 3% in School of the Gifted Young.
 
 
 
