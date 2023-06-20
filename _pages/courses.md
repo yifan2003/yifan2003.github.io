@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 I'm pursuing B.S. degrees both in Mathematics and Computer Science.
 
 I have taken many courses and got 123 credits.
