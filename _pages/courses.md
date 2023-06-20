@@ -9,13 +9,13 @@ redirect_from:
 
 I'm pursuing B.S. degrees both in Mathematics and Computer Science.
 
-I have taken many courses and got 123 credits.
+I have taken many courses and got 137 credits.
 
-Overall GPA(2 years) 3.99/4.30 or 91.92/100.0
+Overall GPA(2.5 years) 4.02/4.30 or 92.5/100.0
 
-Rank in 2/43 in School of the Gifted Young who majored in Mathematics
+Rank in 1/48 in School of the Gifted Young who majored in Mathematics
 
-Rank in 8/136 in the major of Mathematics all of the school.
+Rank 1% in the major of Mathematics all of the school.
 
 
 
@@ -27,40 +27,40 @@ Below will be the grades for all my majors.
 
 (AD: auditing, which means that I attended the classes and finished the homework without any credit)
 
-#### Mathematics
+# Mathematics
 
-##### Analysis and Differential Equations
+## Analysis and Differential Equations
 
 - Mathematical Analysis B1~B3 (92,93,95)
 - Differential Equations I (95)
 - Complex Analysis (90)
 - Real Analysis (95)
-- Functional Analysis (OG)
+- Functional Analysis (95)
 
-##### Algebra
+## Algebra
 
 - Linear Algebra B1, B2 (91,91)
 - Modern Algebra (95)
-- Algebraic Geometra* (OG)
-- Commutative Algebra* (OG)
-- Algebra* (OG)
+- Algebraic Geometra* (AD)
+- Commutative Algebra* (AD)
+- Algebra* (AD)
 
-##### Geometry and Topology
+## Geometry and Topology
 
-- Differential Geometry (OG)
-- Topology (OG)
+- Differential Geometry (90)
+- Topology (92)
 
-##### Computational and Applied Math
+## Computational and Applied Math
 
-- Combinatorics&advanced (OG)
+- *Combinatorics&advanced (99,100)
 - *Graph Theory (98)
--  Operations Research(OG)
+-  Operations Research(AD)
 
-##### Probability and Statistics
+## Probability and Statistics
 
 - Probability Theory (98)
 
-#### Computer Science
+# Computer Science
 
 - Data Structure and Database(97)
 - Foundations of Algorithms(100)
