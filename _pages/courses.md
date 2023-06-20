@@ -4,7 +4,7 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 redirect_from:
-  - /resume
+  - /courses
 ---
 
 I'm pursuing B.S. degrees both in Mathematics and Computer Science.
