@@ -14,6 +14,9 @@ main:
     
   - title: "Courses"
     url: /courses/
+
+  - title: "CV"
+    url: /files/cv.Yifan.pdf
     
   - title: "Guide"
     url: /markdown/
