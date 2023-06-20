@@ -13,7 +13,7 @@ main:
     url: /courses/
 
   - title: "CV"
-    url: /files/cv.Yifan.pdf
+    url: /cv.Yifan.pdf/
     
   - title: "Guide"
     url: /markdown/
