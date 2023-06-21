@@ -5,4 +5,5 @@ permalink: /research/
 author_profile: true
 ---
 
-HHH
+# An Isotonic Mechanism for Overlapping Ownership
+
