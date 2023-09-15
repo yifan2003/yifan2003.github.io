@@ -17,4 +17,8 @@ During undergrad, I was extremely fortunate to be advised by kind and inspiring 
 
 - [Prof. Haifeng Xu](https://www.haifeng-xu.com/)
 
+- [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan)
+
+- [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/)
+
 
