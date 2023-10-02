@@ -7,4 +7,4 @@ author_profile: true
 
 [An Isotonic Mechanism for Overlapping Ownership](https://arxiv.org/pdf/2306.11154.pdf)
 
-$(\alpha-\beta)$ order: Yifan Guo, Weijie Su, Jibang Wu, Haifeng Xu
+Joint work with: [Jibang Wu](https://wujibang.com/), [Haifeng Xu](https://www.haifeng-xu.com/), and [Weijie Su](http://stat.wharton.upenn.edu/~suw/).
