@@ -11,11 +11,9 @@ I'm pursuing B.S. degrees both in Mathematics and Computer Science.
 
 I have taken many courses and got 137 credits.
 
-Overall GPA(2.5 years) 4.02/4.30 or 92.5/100.0
+Overall GPA (2.5 years) 4.02/4.30 or 92.5/100.0
 
-Rank in 3% in School of the Gifted Young.
-
-
+Ranked in the top 3% at the School of the Gifted Young.
 
 Below will be the grades for all my majors.
 
@@ -29,7 +27,7 @@ Below will be the grades for all my majors.
 
 ## Analysis and Differential Equations
 
-- Mathematical Analysis B1~B3 (92,93,95)
+- Mathematical Analysis B1 ~ B3 (92,93,95)
 - Differential Equations I (95)
 - Complex Analysis (90)
 - Real Analysis (95)
@@ -39,7 +37,7 @@ Below will be the grades for all my majors.
 
 - Linear Algebra B1, B2 (91,91)
 - Modern Algebra (95)
-- Algebraic Geometra* (AD)
+- Algebraic Geometry* (AD)
 - Commutative Algebra* (AD)
 - Algebra* (AD)
 
@@ -50,9 +48,9 @@ Below will be the grades for all my majors.
 
 ## Computational and Applied Math
 
-- *Combinatorics&advanced (99,100)
+- *Combinatorics & advanced (99,100)
 - *Graph Theory (98)
--  Operations Research(AD)
+- Operations Research (AD)
 
 ## Probability and Statistics
 
@@ -60,8 +58,8 @@ Below will be the grades for all my majors.
 
 # Computer Science
 
-- Data Structure and Database(97)
-- Foundations of Algorithms(100)
-- Computer Programming A(91)
-- Computer System(A)
-- *Computational Economics(92)
+- Data Structure and Database (97)
+- Foundations of Algorithms (100)
+- Computer Programming A (91)
+- Computer System (A) 
+- *Computational Economics (92)
