@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my homepage! My name is Yifan Guo (郭一凡). I am a senior undergraduate student at [the School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/). I am part of an Interdisciplinary Talent Class (Math & Computer Science).
 
-I am also a visiting student at the University of Chicago where I spent six fantastic months working with [Prof. Haifeng Xu](https://www.haifeng-xu.com/) and [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan).
+I am also a visiting student at the University of Chicago, where I spent six fantastic months working with [Prof. Haifeng Xu](https://www.haifeng-xu.com/) and [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan).
 
 I have a broad interest in EconCS, especially its intersection with theoretical computer science and real-world impact.
 
