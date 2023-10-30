@@ -7,11 +7,9 @@ redirect_from:
   - /miscellaneous
 ---
 
-If I ever step away from academia, I could envision a career in soccer or Chinese Chess.
+Beyond academia, I like sports and strategy games. I have a strong passion for soccer, having won a National Championship and earned an MVP award in university competitions. Other sports I enjoy include badminton, tennis, basketball, and kayaking.
 
-From my younger years, sports have been a significant part of my life, with soccer taking center stage. In fact, I secured a National Championship title early on. During my university years, our school team achieved both runner-up and third-place titles, marking the best performance in the school's history. Additionally, I was honored with the MVP award for my role as a midfielder and a captain. Beyond soccer, I have a fondness for badminton, tennis, basketball, and kayaking.
-
-In the realm of strategic games, I'm drawn to Chinese Chess, poker, guandan, and eighty-points. I'm particularly proud of having earned the title of Anhui Province Champion in Chinese Chess.
+In the realm of strategy games, Chinese Chess is a favorite. I have been honored with the title of Anhui Province Champion in this discipline.
 
 During my second year at university, I embraced the role of president of the Programming Club. Together with my team, we organized contests and prepared diligently for ICPC/CCPC competitions. Our collective efforts elevated the club from a 2-star rating to an impressive 4-star.
 
