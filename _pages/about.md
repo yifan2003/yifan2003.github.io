@@ -21,4 +21,5 @@ During undergrad, I was extremely fortunate to be advised by kind and inspiring 
 
 - [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/), University of Pennsylvania
 
+- [Prof. Shuai Shao](http://staff.ustc.edu.cn/~wwwucuc/), University of Science and Technology of China
 
