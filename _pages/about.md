@@ -11,7 +11,7 @@ Welcome to my homepage! My name is Yifan Guo (郭一凡). I am a senior undergra
 
 I am also a visiting student at the University of Chicago, where I spent six fantastic months working with [Prof. Haifeng Xu](https://www.haifeng-xu.com/) and [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan).
 
-I have a broad interest in EconCS, especially its intersection with theoretical computer science and real-world impact.
+I have a broad interest in EconCS, especially in mechanism design and information design.
 
 During undergrad, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them.
 
