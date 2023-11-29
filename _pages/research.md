@@ -9,7 +9,11 @@ author_profile: true
 
 Joint work with: [Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan) and [Haifeng Xu](https://www.haifeng-xu.com/).
 
+*In submission to Operations Research, 2nd round review.*
+
 
 [An Isotonic Mechanism for Overlapping Ownership](https://arxiv.org/pdf/2306.11154.pdf)
 
 Joint work with: [Jibang Wu](https://wujibang.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Weijie Su](http://stat.wharton.upenn.edu/~suw/).
+
+*In submission to Management Science.*
