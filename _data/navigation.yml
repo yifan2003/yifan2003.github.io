@@ -9,11 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Courses"
-    url: /courses/
-
   - title: "CV"
-    url: /files/cv_Yifan.pdf
+    url: /files/CV_Yifan.pdf
     
   - title: "Miscellaneous"
     url: /miscellaneous/
