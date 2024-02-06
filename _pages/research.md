@@ -7,13 +7,23 @@ author_profile: true
 
 [On Information Design with Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3537289)
 
-Joint work with: [Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan) and [Haifeng Xu](https://www.haifeng-xu.com/).
+Joint work with: [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan) and [Prof. Haifeng Xu](https://www.haifeng-xu.com/).
 
-*In submission to Operations Research, 2nd round review.*
+*under 2nd round review at Operations Research, resubmitted after major revision request.*
+*one-page abstract under review at EC24.*
 
 
-[An Isotonic Mechanism for Overlapping Ownership](https://arxiv.org/pdf/2306.11154.pdf)
+[A Truth Serum for Eliciting Self-Evaluations in Scientific Reviews](https://arxiv.org/pdf/2306.11154.pdf)
 
-Joint work with: [Jibang Wu](https://wujibang.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Weijie Su](http://stat.wharton.upenn.edu/~suw/).
+Joint work with: [Jibang Wu](https://wujibang.com/), [Prof. Haifeng Xu](https://www.haifeng-xu.com/), [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/).
 
-*In submission to Management Science.*
+*In preparation for submission to Nature.*
+*one-page abstract under review at EC24.*
+
+Ongoing work:
+
+Algorithmic Pricing of Machine Learning Predictions.
+
+Advised by: Prof. Haifeng Xu.
+
+
