@@ -11,15 +11,15 @@ Welcome to my homepage! My name is Yifan Guo (郭一凡). I am a senior undergra
 
 I am also a visiting student at the University of Chicago, where I spent six fantastic months working with [Prof. Haifeng Xu](https://www.haifeng-xu.com/) and [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan).
 
-I have a broad interest in EconCS, especially in mechanism design and information design.
+I have a broad interest in EconCS and Operations Research, especially in mechanism design and information design.
 
 During undergrad, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them.
 
 - [Prof. Haifeng Xu](https://www.haifeng-xu.com/), University of Chicago
 
-- [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan), University of Chicago
+- [Prof. Ozan Candogan](https://faculty.chicagobooth.edu/ozan-candogan), University of Chicago, Booth School of Business
 
-- [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/), University of Pennsylvania
+- [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/), University of Pennsylvania, Wharton School of Business
 
 - [Prof. Shuai Shao](http://staff.ustc.edu.cn/~wwwucuc/), University of Science and Technology of China
 
