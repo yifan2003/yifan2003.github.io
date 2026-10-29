@@ -11,8 +11,8 @@ date: '2025-03-26T00:00:00Z'
 publishDate: '2025-03-26T00:00:00Z'
 publication_types: ['preprint']
 publication: 'Working paper.'
-# Review status follows CV/Yifan_Guo_CV.tex; no journal publication is claimed.
-publication_short: '<br>Working paper<br>Under review, Mathematics of Operations Research'
+# Major-revision status supplied by the owner on 2026-10-29; no journal publication is claimed.
+publication_short: '<br>Working paper<br>Major revision, ACM Transactions on Economics and Computation'
 # Abstract source: On_Information_Design_with_Spillovers__MOR_Version___Version_18065_/main-geb.tex.
 abstract: |
   An information designer assigns experiments to agents on a directed network. The information transmission has spillover, encoded by the network: an agent observes the experiments assigned to him, and also other agents' experiments that might spill over to him. We study how optimal information design is affected by the mode of spillovers (*local* or *global*) and lossy information transmission. Under global spillover, its complexity is governed by the network structure: the optimal information structure is tractable when each agent follows at most one other agent but immediately becomes NP-hard otherwise. Under local spillover, the complexity is a subtle interplay of the network and communication technology: optimal information design is tractable so long as each agent does not follow many agents *and* the communication technology is simple, but becomes intractable with any deviation from these two factors. Finally, we showcase an application of our framework to information design in supply chains.
@@ -29,4 +29,4 @@ links:
     url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194204
 ---
 
-Under review at *Mathematics of Operations Research*.
+Major revision at *ACM Transactions on Economics and Computation*.

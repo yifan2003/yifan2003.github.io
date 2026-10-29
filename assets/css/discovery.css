@@ -10,9 +10,13 @@
 
 .fy-hero { padding-top: clamp(3rem, 7vw, 5.5rem); padding-bottom: clamp(2.5rem, 5vw, 4rem); }
 .fy-hero-grid { display: grid; grid-template-columns: 196px minmax(0, 1fr); gap: clamp(2rem, 5vw, 3.5rem); align-items: start; }
-.fy-hero-portrait img {
-  width: 196px; height: 196px; border-radius: 50%; object-fit: cover;
+.fy-hero-portrait {
+  width: 196px; height: 196px; border-radius: 50%; overflow: hidden;
   box-shadow: 0 0 0 1px var(--c-line), 0 0 0 7px var(--c-surface), 0 0 0 8px var(--c-line);
+}
+.fy-hero-portrait img {
+  display: block; width: 100%; height: 100%; object-fit: cover;
+  transform: scale(1.25); transform-origin: 50% 40%;
 }
 .fy-hero-main { max-width: var(--text-col); padding-top: .35rem; }
 .fy-hero-name { margin: 0; color: var(--c-ink); font-size: clamp(2.2rem, 4.4vw, 2.85rem); font-weight: 680; line-height: 1.08; letter-spacing: -0.03em; }
@@ -220,7 +224,7 @@
   .fy-plate .rp-wide { display: none; }
   .fy-plate .rp-compact { display: block; }
   .fy-hero-grid { grid-template-columns: minmax(0, 1fr); gap: 1.6rem; }
-  .fy-hero-portrait img { width: 112px; height: 112px; box-shadow: 0 0 0 1px var(--c-line), 0 0 0 5px var(--c-surface), 0 0 0 6px var(--c-line); }
+  .fy-hero-portrait { width: 112px; height: 112px; box-shadow: 0 0 0 1px var(--c-line), 0 0 0 5px var(--c-surface), 0 0 0 6px var(--c-line); }
   .fy-hero-main { padding-top: 0; }
   .fy-hero-role { flex-direction: column; gap: .15rem; }
   .fy-hero-sep { display: none; }

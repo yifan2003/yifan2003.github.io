@@ -114,10 +114,8 @@ sections:
   - block: markdown
     id: service
     content:
-      title: Service & Beyond
+      title: Service
       icon: user-group
       text: |
         I am a student lead of **Evaluation of AI Evaluations**, a Stanford Human-Centered AI student group (2026–2027). I served as Social Chair of the Stanford GSB PhD Association (2025–2026) and President of the USTC Programming Club (2021–2022).
-
-        Outside research, I enjoy soccer. I captained the School of the Gifted Young men's soccer team at USTC from 2020 to 2024.
 ---
