@@ -1,0 +1,19 @@
+main:
+- name: About
+  url: '#bio'
+  weight: 10
+- name: Research
+  url: '#research'
+  weight: 20
+- name: Papers
+  url: '#publications'
+  weight: 30
+- name: Education
+  url: '#education'
+  weight: 40
+- name: Teaching
+  url: '#teaching'
+  weight: 50
+- name: CV
+  url: uploads/Yifan_Guo_CV.pdf
+  weight: 60

@@ -1,31 +1,54 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Yifan Guo — academic homepage
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+An English academic homepage built from [MarcusYF/academic-homepage-template](https://github.com/MarcusYF/academic-homepage-template), retaining its Hugo/HugoBlox layouts and teal visual style.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Target URL: **https://yifan2003.github.io/**  
+Target repository: **https://github.com/yifan2003/yifan2003.github.io** (default branch: `master`).
 
-# Instructions
+## Preview and build
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+The optional toolchain is installed locally in `.tools/`; it is excluded from Git. Nothing is installed globally.
 
-See more info at https://academicpages.github.io/
+```sh
+./scripts/site.sh serve        # http://localhost:1313, live reload
+./scripts/site.sh build        # public/ plus the Pagefind search index
+./scripts/site.sh versions
+```
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+To preview the complete production build, including search:
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+```sh
+python3 -m http.server 1313 --bind 127.0.0.1 --directory public
+```
 
-# Changelog -- bugfixes and enhancements
+If the production preview is already using port 1313, use `./scripts/site.sh serve --port 1314` for live editing.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+On another Apple Silicon Mac, `./scripts/setup-local.sh` downloads checksum-verified Hugo extended 0.157.0, Go 1.27.3, Node 22.23.4 and pnpm 10.14.0, and installs the pinned Node dependencies. On other platforms, install Hugo extended 0.157.0, Go, Node 22 and pnpm 10.14.0, then run `./scripts/site.sh install`. The locked Hugo modules and Node packages are recorded in `go.mod`, `go.sum` and `pnpm-lock.yaml`.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+## Edit content
+
+| Content | File |
+| --- | --- |
+| Bio, affiliations, email, interests | `data/authors/me.yaml` |
+| Homepage sections, education, teaching, honors | `content/_index.md` |
+| Papers and BibTeX | `content/publications/<paper>/index.md` and `cite.bib` |
+| Navigation | `config/_default/menus.yaml` |
+| Page title, description, theme | `config/_default/params.yaml` |
+| Site URL | `config/_default/hugo.yaml` |
+| Portrait | `assets/media/authors/me.jpg` |
+| Downloadable CV | `static/uploads/Yifan_Guo_CV.pdf` |
+| Social preview | `assets/media/sharing.png` |
+
+The public CV is maintained in the separate local source `CV/Yifan_Guo_CV_public.tex`; the original CV remains unchanged. Compile the public source into a temporary output directory and copy the resulting PDF to `static/uploads/Yifan_Guo_CV.pdf`. The current feature-highlighting manuscript is an exact copy of the approved `HumanAI/MS.pdf`, served from `static/papers/feature-highlighting/MS.pdf`.
+
+See [content sources](docs/CONTENT_SOURCES.md) and the [original template guide](docs/TEMPLATE_README.md).
+
+## Publish to the existing GitHub Pages address
+
+GitHub Pages builds and publishes this Hugo site from `master` using GitHub Actions.
+
+Preserve repository history when updating the site. In the repository's **Settings → Pages**, use **Source: GitHub Actions**. The supplied deployment workflow targets `master` and publishes to the repository's existing Pages URL. No custom domain or DNS change is needed. Do not upload `.tools/`, `.qa/`, `node_modules/`, `public/`, or local research source directories.
+
+## Credits
+
+Template snapshot: `5a89b9b363a0da847669c4d0f7b3764bc2afc9b8` from MarcusYF/academic-homepage-template. Template code and HugoBlox are MIT licensed; see `LICENSE.md`. The upstream template guide is retained under `docs/`. The site's content uses a plain copyright notice; no additional Creative Commons license has been selected.

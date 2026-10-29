@@ -1,0 +1,50 @@
+# Profile facts: CV/Yifan_Guo_CV.tex. Portrait: the existing personal website.
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Yifan Guo
+  given: Yifan
+  family: Guo
+  alternate: 郭一凡
+role: Ph.D. Student in Operations, Information, and Technology
+affiliations:
+  - name: Stanford Graduate School of Business
+    url: https://www.gsb.stanford.edu/
+bio: |
+  I am a Ph.D. student in Operations, Information, and Technology at the Stanford Graduate School of Business and a Data Science Scholar at Stanford Human-Centered AI.
+
+  I study the intersection of economics, operations, and AI. My research uses game theory, mechanism design, and information design to improve human–AI collaboration and decision-making. I received my B.S. in Mathematics with highest honor from the School of the Gifted Young at the University of Science and Technology of China.
+interests:
+  - Human–AI collaboration
+  - Mechanism design
+  - Information design
+  - Economics of AI
+links:
+  - icon: at-symbol
+    url: mailto:guoyifan2003@gmail.com
+    label: Email (preferred)
+  - icon: hero/academic-cap
+    url: mailto:yifanguo@stanford.edu
+    label: Stanford email
+  - icon: brands/github
+    url: https://github.com/yifan2003
+    label: GitHub
+actions:
+  - label: Download CV
+    url: uploads/Yifan_Guo_CV.pdf
+    icon: download
+  - label: Get in touch
+    url: mailto:guoyifan2003@gmail.com
+    icon: envelope
+contact:
+  office: Stanford Graduate School of Business
+  email: guoyifan2003@gmail.com
+jsonld:
+  description: Ph.D. student at Stanford GSB studying human–AI collaboration, mechanism design, and information design.
+  works_for:
+    name: Stanford University
+    department: Graduate School of Business
+    department_url: https://www.gsb.stanford.edu/
+  alumni_of:
+    - University of Science and Technology of China

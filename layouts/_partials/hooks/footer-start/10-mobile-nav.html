@@ -1,0 +1,14 @@
+{{- /* Close the checkbox-driven mobile menu after choosing a navigation link. */ -}}
+<script>
+(() => {
+  const menu = document.getElementById('nav-menu');
+  const toggle = document.getElementById('nav-toggle');
+  if (!menu || !toggle) return;
+
+  menu.addEventListener('click', (event) => {
+    if (event.target instanceof Element && event.target.closest('a[href]')) {
+      toggle.checked = false;
+    }
+  });
+})();
+</script>

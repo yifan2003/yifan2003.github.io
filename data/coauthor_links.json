@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "checked_at": "2026-10-29",
+  "about": "One primary academic profile or personal homepage per coauthor, matched by name and affiliation. Sources were checked on the date above; institutional profiles are used when a personal homepage could not be verified.",
+  "authors": {
+    "Jann Spiess": {
+      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/jann-spiess",
+      "kind": "homepage",
+      "verified": true,
+      "sources": ["https://www.gsb.stanford.edu/faculty-research/faculty/jann-spiess"]
+    },
+    "Weijie Su": {
+      "url": "https://www.weijie-su.com/",
+      "kind": "homepage",
+      "verified": true,
+      "sources": ["https://www.weijie-su.com/", "https://statistics.wharton.upenn.edu/profile/suw/"]
+    },
+    "Jibang Wu": {
+      "url": "https://shanghai.nyu.edu/academics/faculty/directory/jibang-wu",
+      "kind": "homepage",
+      "verified": true,
+      "sources": ["https://shanghai.nyu.edu/academics/faculty/directory/jibang-wu"]
+    },
+    "Haifeng Xu": {
+      "url": "https://www.haifeng-xu.com/",
+      "kind": "homepage",
+      "verified": true,
+      "sources": ["https://www.haifeng-xu.com/"]
+    },
+    "Ozan Candogan": {
+      "url": "https://www.chicagobooth.edu/faculty/directory/c/ozan-candogan",
+      "kind": "homepage",
+      "verified": true,
+      "sources": ["https://www.chicagobooth.edu/faculty/directory/c/ozan-candogan"]
+    }
+  }
+}
