@@ -107,7 +107,7 @@ sections:
       text: |
         - **Stanford Human-Centered AI Fellowship** · 2026–2028
         - **Stanford Graduate Fellowship** · 2024–2029
-        - **Guo Moruo Scholarship**, highest honor, ranked first in the university · 2024
+        - **Guo Moruo Scholarship**, highest honor · 2024
         - **ICPC National Programming Contest**, Gold Medal · 2024
         - **S.-T. Yau College Student Mathematics Contest**, eighth in Applied Mathematics in the final · 2022
 
